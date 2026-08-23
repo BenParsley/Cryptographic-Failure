@@ -32,25 +32,6 @@ Below are screenshots showing the application's key educational interfaces:
 - **HTML5** 
 - **CSS3** 
 - **Vanilla JavaScript**
-- **Bootstrap 5**
-- **jQuery**
-
-## Additional Technologies that were later deprecated
-Originally the utilziity had login functionality but that has since been removed after all PHP was wiped and replaced with base HTML 
-- **Heroku**
-- **ClearDB** 
-
-
-
-## Getting Started
-
-Since this is a client-side static web application, there are no database or backend servers to configure. 
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/cryptographic-failure.git
-   ```
-2. Double-click `index.html` to open the website directly in any modern browser (Chrome, Firefox, Safari, Edge).
 
 ## License
 
