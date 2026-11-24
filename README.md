@@ -20,15 +20,20 @@
 Below are screenshots showing the application's key educational interfaces:
 
 ![Encryption Concept Diagrams Section](screenshots/content_1.png)
-*Figure 2: The conceptual diagrams section illustrating the flow of plaintext to ciphertext under Symmetric (single shared key) vs. Asymmetric (public/private key pair) encryption schemes.*
+*Figure 1: The conceptual diagrams section illustrating the flow of plaintext to ciphertext under Symmetric (single shared key) vs. Asymmetric (public/private key pair) encryption schemes.*
 
 ![Cryptographic Vulnerability Catalog Grid](screenshots/content_2.png)
-*Figure 3: The Vulnerability Catalog view, featuring an interactive grid of common cryptographic failures based on real-world CVEs and CWEs.*
+*Figure 2: The Vulnerability Catalog view, featuring an interactive grid of common cryptographic failures based on real-world CVEs and CWEs.*
 
 ## Technologies Used
 - **HTML5** 
 - **CSS3** 
-- **Vanilla JavaScript**
+- **JavaScript**
+Original version was built using 
+- **PHP**
+- **JavaScript**
+- **HEROKU**
+- **CLEARDB** 
 
 ## License
 
