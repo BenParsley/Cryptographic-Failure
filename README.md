@@ -29,7 +29,8 @@ Below are screenshots showing the application's key educational interfaces:
 - **HTML5** 
 - **CSS3** 
 - **JavaScript**
-Original version was built using 
+
+## Original version Used:
 - **PHP**
 - **JavaScript**
 - **HEROKU**
