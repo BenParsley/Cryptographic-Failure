@@ -1,6 +1,6 @@
 # What is Cryptographic Failure?
 
-
+![Demo](screenshots/demo.mp4)
 
 ## Table of Contents
 - [Features](#features)
