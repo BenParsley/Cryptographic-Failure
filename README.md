@@ -1,4 +1,4 @@
-# What is? Cryptographic Failure 
+# What is Cryptographic Failure?
 
 This was a previously hosted website that helped explains what Cryptogrpahic Failure is and the most common CVEs as per OWASP 2022 descriptions.
 
