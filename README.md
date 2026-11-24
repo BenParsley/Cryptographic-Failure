@@ -1,6 +1,6 @@
 # What is Cryptographic Failure?
 
-![Demo](screenshots/demo.mp4)
+![Demo]([screenshots/demo.mp4](https://github.com/BenParsley/cryptographic-failure/blob/master/screenshots/demo.mp4)
 
 ## Table of Contents
 - [Features](#features)
